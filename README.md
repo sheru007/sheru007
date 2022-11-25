@@ -23,8 +23,8 @@ I am a fullstack software engineer
 <br>
 <br>
 
-<!--
-**sheru007/sheru007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cards
+<a href="https://app.daily.dev/sherukhann"><img src="https://api.daily.dev/devcards/806d262f24f949e5bda9640951d69b6f.png?r=adr" width="400" alt="Sheru Khan's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
