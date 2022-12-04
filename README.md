@@ -24,7 +24,7 @@ I am a fullstack software engineer
 <br>
 
 ## Cards
-<a href="https://app.daily.dev/sherukhann"><img src="https://api.daily.dev/devcards/806d262f24f949e5bda9640951d69b6f.png?r=rpy" width="400" alt="Sheru Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/sherukhann"><img src="https://github.com/sheru007/sheru007/blob/main/devcard.png" width="400" alt="Sheru Khan's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
