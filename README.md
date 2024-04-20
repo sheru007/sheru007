@@ -8,7 +8,6 @@ I am a highly enthusiastic Javascript Developer with excellent problem-solving s
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sheru007.github.io/sheru-khan-resume/](http://sheru007.github.io/sheru-khan-resume/)
-* ✉️  You can contact me at [jnvh1233sheru@gmail.com](mailto:jnvh1233sheru@gmail.com)
 * 🚀  I'm currently working on [Byju's(byjusexamprep.com)](http://byjusexamprep.com/)
 * 🧠  I'm learning Next.js, Angular, Vue.js, Micro-frontend, Google Tag Manager, Docker, AWS
 * 🤝  I'm open to collaborating on any Frontned or MERN stack project
