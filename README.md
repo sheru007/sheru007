@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Engineer & MERN Stack developer
 -----------------------------------------------
 
-I am a highly enthusiastic Javascript Developer with excellent problem-solving skills and 4+ years of experience in frontend technologies like React.js, Next.js, Javascript, HTML.CSS, Node.js, Redux, etc. Along with Frontend, I have a decent amount of knowledge of Backend technologies like Node.js, Express.js, MongoDB, Redis, and REST API. After being part of and leading several teams, I have excellent organizational skills and team ethics. I am very dedicated to work and a quick learner. I can write reusable, high-quality code and libraries for future use. I always keep enhancing my knowledge. I have successfully delivered numerous projects, ranging from small-scale websites to complex web applications. I am also capable of mentoring junior devs. I am a big explorer when it comes to career opportunities.
+I am a highly enthusiastic Javascript Developer with excellent problem-solving skills and 5.5+ years of experience in frontend technologies like React.js, Next.js, Javascript, HTML.CSS, Node.js, Redux, etc. Along with Frontend, I have a decent amount of knowledge of Backend technologies like Node.js, Express.js, MongoDB, Redis, and REST API. After being part of and leading several teams, I have excellent organizational skills and team ethics. I am very dedicated to work and a quick learner. I can write reusable, high-quality code and libraries for future use. I always keep enhancing my knowledge. I have successfully delivered numerous projects, ranging from small-scale websites to complex web applications. I am also capable of mentoring junior devs. I am a big explorer when it comes to career opportunities.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sheru007.github.io/sheru-khan-resume/](http://sheru007.github.io/sheru-khan-resume/)
-* 🚀  I'm currently working on [Byju's(byjusexamprep.com)](http://byjusexamprep.com/)
+* 🚀  I'm currently working on [Apna Jobs](http://apna.co/)
 * 🧠  I'm learning Next.js, Angular, Vue.js, Micro-frontend, Google Tag Manager, Docker, AWS
 * 🤝  I'm open to collaborating on any Frontned or MERN stack project
 * ⚡  Along with code, I love to watch movies, travel, adventurous sports.
