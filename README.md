@@ -8,7 +8,7 @@ I am a highly enthusiastic Javascript Developer with excellent problem-solving s
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sheru007.github.io/sheru-khan-resume/](http://sheru007.github.io/sheru-khan-resume/)
-* 🚀  I'm currently working on [Apna Jobs](http://apna.co/)
+* 🚀  I'm currently working on [Paypal](http://paypal.com)
 * 🧠  I'm learning Next.js, Angular, Vue.js, Micro-frontend, Google Tag Manager, Docker, AWS
 * 🤝  I'm open to collaborating on any Frontned or MERN stack project
 * ⚡  Along with code, I love to watch movies, travel, adventurous sports.
